@@ -2,7 +2,7 @@
 This page houses code for all analysis and methods developed in our manuscript "Pre-challenge gut microbial signature predicts RhCMV/SIV vaccine efficacy in rhesus macaques".
 
 ## Contents
-- [Set up](#Setup)
+- [Setup](#Setup)
 - [Manuscript analysis](#Manuscript-analysis)
 - [Pairbal](#Pairbal)
 
